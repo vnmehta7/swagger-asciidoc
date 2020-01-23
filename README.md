@@ -23,12 +23,14 @@
           include::paths.adoc[]
           include::security.adoc[]
         ```
+
 - ## Build
    - With [Swagger Online Editor](https://editor.swagger.io/), there is option to generate Server, where there are ample options on which language we can generate server.
    - For example if we select spring as per below screenshot, it builds the entire Spring REST API with Swagger integration and it save lots of time to manually create those API.
     ![BUILD API](BuildAPI.PNG)
    - Unzip the built code and import it to your favourite IDE, and just run the Spring boot Application and you can see that those rest API are working.
     ![RUN API](RunAPI.PNG)
+
 
 - ## Test
     - Swagger comes with web based testing tool, so if we have generated API from Swagger and run that ,it would start the testing editor as part of it.
