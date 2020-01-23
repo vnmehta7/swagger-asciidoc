@@ -7,6 +7,7 @@
     - [Swagger Online Editor](https://editor.swagger.io/) provides you way to create the API specification. 
     - You can create API spec in YAML or JSON format. Below is sample format for the same 
         ![DESIGN API](DesignAPI.PNG)
+
         
 - ## Document API
     - Once API spec is ready we can convert the spec to asciidoc using AsciiDoctor and Swagger2markup gradle plugins.
